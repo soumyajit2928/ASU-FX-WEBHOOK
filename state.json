@@ -313,7 +313,17 @@
   "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html": "2026-10-21T11:33:45.428479+00:00",
   "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html": "2026-10-21T11:33:45.428479+00:00",
   "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls": "2026-10-21T11:42:18.179023+00:00",
-  "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims": "2026-10-21T11:42:18.179023+00:00"
+  "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims": "2026-10-21T11:42:18.179023+00:00",
+  "https://www.channelnewsasia.com/business/bolt-nvidia-kickstart-driverless-taxi-programme-in-madrid-during-2027-6478871": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.channelnewsasia.com/singapore/ocbc-malaysian-ringgit-multi-currency-6478511": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.channelnewsasia.com/business/openai-sell-its-top-models-google-cloud-in-latest-enterprise-push-6478941": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.channelnewsasia.com/business/germanys-agile-make-up-2000-humanoid-robots-nvidia-ceo-says-6478936": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes": "2026-10-21T12:14:04.099032+00:00",
+  "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796": "2026-10-21T12:14:04.099032+00:00"
  },
  "posted": [
   {
@@ -825,6 +835,43 @@
    "assets": [
     "Oil & Gas",
     "Commodities"
+   ]
+  },
+  {
+   "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+   "time": "2026-10-21T12:14:04.099032+00:00",
+   "score": 5.35,
+   "sources": [
+    "NPR World"
+   ],
+   "regions": [
+    "Middle East",
+    "Europe & Russia"
+   ],
+   "topics": [
+    "Conflict"
+   ],
+   "assets": [
+    "Oil & Gas",
+    "Gold & Havens",
+    "Commodities"
+   ]
+  },
+  {
+   "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
+   "link": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796",
+   "time": "2026-10-21T12:14:04.099032+00:00",
+   "score": 5.49,
+   "sources": [
+    "CNA"
+   ],
+   "regions": [
+    "Asia-Pacific"
+   ],
+   "topics": [],
+   "assets": [
+    "Equities"
    ]
   }
  ]
