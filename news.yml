@@ -1,0 +1,60 @@
+name: Geopolitical news to Discord
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # news run, every 30 minutes
+    - cron: "30 3 * * *"     # daily briefing, 03:30 UTC = 09:00 IST
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        options: [news, digest, dry-run]
+        default: news
+
+permissions:
+  contents: write
+
+concurrency:
+  group: geo-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_BREAKING: ${{ secrets.DISCORD_WEBHOOK_BREAKING }}
+          DISCORD_WEBHOOK_DIGEST: ${{ secrets.DISCORD_WEBHOOK_DIGEST }}
+          DISCORD_WEBHOOK_MIDDLE_EAST: ${{ secrets.DISCORD_WEBHOOK_MIDDLE_EAST }}
+          DISCORD_WEBHOOK_EUROPE: ${{ secrets.DISCORD_WEBHOOK_EUROPE }}
+          DISCORD_WEBHOOK_ASIA_PACIFIC: ${{ secrets.DISCORD_WEBHOOK_ASIA_PACIFIC }}
+          DISCORD_WEBHOOK_SOUTH_ASIA: ${{ secrets.DISCORD_WEBHOOK_SOUTH_ASIA }}
+          DISCORD_WEBHOOK_AFRICA: ${{ secrets.DISCORD_WEBHOOK_AFRICA }}
+          DISCORD_WEBHOOK_AMERICAS: ${{ secrets.DISCORD_WEBHOOK_AMERICAS }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_MODE: ${{ inputs.mode }}
+        run: |
+          if [ "$EVENT_SCHEDULE" = "30 3 * * *" ] || [ "$INPUT_MODE" = "digest" ]; then
+            python news_to_discord.py --digest
+          elif [ "$INPUT_MODE" = "dry-run" ]; then
+            python news_to_discord.py --dry-run
+          else
+            python news_to_discord.py
+          fi
+      - name: Save state
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || (git commit -m "update state" && git push)

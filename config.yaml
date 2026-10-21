@@ -1,0 +1,118 @@
+# ---------------------------------------------------------------------------
+# Geopolitical news bot: configuration
+# Everything you'd want to tune lives here; the script itself rarely needs edits.
+# ---------------------------------------------------------------------------
+
+settings:
+  max_age_hours: 24          # ignore articles older than this
+  max_posts_per_run: 12      # highest-scoring stories win; the rest wait for the next run
+  first_run_posts: 6         # on the very first run, post only this many
+  min_score: 3.0             # stories scoring below this are dropped
+  breaking_score: 9.0        # score + urgency needed to count as BREAKING
+  cluster_similarity: 0.45   # headline overlap (0-1) to treat items as the same story
+  dup_window_hours: 24       # don't repost a story already posted in this window
+  require_relevance: true    # drop non-"topical" feed items with no geopolitical signal
+  state_retention_days: 7
+  digest_size: 10            # stories in the daily briefing
+  utc_offset_minutes: 330    # for the briefing's date label (330 = IST)
+  breaking_mention: ""       # e.g. "@here" to ping on breaking news ("" = no ping)
+  ai_summaries: false        # true = one-line neutral summary via Claude (needs ANTHROPIC_API_KEY)
+  ai_model: claude-haiku-5-5
+
+# Environment variable NAMES holding Discord webhook URLs (set them as GitHub secrets).
+# Only "default" is required. Anything unset falls back to default.
+channels:
+  default: DISCORD_WEBHOOK_URL
+  breaking: DISCORD_WEBHOOK_BREAKING
+  digest: DISCORD_WEBHOOK_DIGEST
+  regions:
+    middle_east: DISCORD_WEBHOOK_MIDDLE_EAST
+    europe_russia: DISCORD_WEBHOOK_EUROPE
+    asia_pacific: DISCORD_WEBHOOK_ASIA_PACIFIC
+    south_asia: DISCORD_WEBHOOK_SOUTH_ASIA
+    africa: DISCORD_WEBHOOK_AFRICA
+    americas: DISCORD_WEBHOOK_AMERICAS
+
+# tier: 1 = major/institutional (weight 3), 2 = good but narrower (weight 2), 3 = weight 1
+# topical: true = the whole feed is geopolitics, so skip the relevance filter
+sources:
+  - {name: BBC World,       tier: 1, url: "http://feeds.bbci.co.uk/news/world/rss.xml"}
+  - {name: Al Jazeera,      tier: 1, url: "https://www.aljazeera.com/xml/rss/all.xml"}
+  - {name: The Guardian,    tier: 1, url: "https://www.theguardian.com/world/rss"}
+  - {name: NPR World,       tier: 1, url: "https://feeds.npr.org/1004/rss.xml"}
+  - {name: DW,              tier: 1, url: "https://rss.dw.com/rdf/rss-en-all"}
+  - {name: France 24,       tier: 1, url: "https://www.france24.com/en/rss"}
+  - {name: UN News,         tier: 1, topical: true, url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"}
+  - {name: The Hindu,       tier: 2, url: "https://www.thehindu.com/news/international/feeder/default.rss"}
+  - {name: CNA,             tier: 2, url: "https://www.channelnewsasia.com/rssfeeds/8395986"}
+  - {name: Foreign Policy,  tier: 2, topical: true, url: "https://foreignpolicy.com/feed/"}
+  - {name: The Diplomat,    tier: 2, topical: true, url: "https://thediplomat.com/feed/"}
+
+# Words that signal breaking developments. Each distinct match raises the score.
+# A trailing * means "starts with" (attack* matches attacks, attacked, ...).
+urgency:
+  - breaking
+  - urgent
+  - killed
+  - invasion
+  - coup
+  - explosion*
+  - declares war
+  - ceasefire
+  - missile*
+  - assassinat*
+  - hostage*
+  - attack*
+  - state of emergency
+  - martial law
+  - evacuat*
+  - airstrike*
+
+regions:
+  middle_east:
+    label: Middle East
+    color: "#D69E2E"
+    keywords: [israel*, gaza, palestin*, hamas, hezbollah, lebanon, syria*, iran*, iraq*, yemen, houthi*, saudi, uae, qatar, turkey, turkish, red sea, west bank, jordan, egypt*, kuwait, oman, tehran, riyadh]
+  europe_russia:
+    label: Europe & Russia
+    color: "#3182CE"
+    keywords: [russia*, ukrain*, kyiv, moscow, kremlin, nato, european union, eu, brussels, germany, france, poland, baltic, belarus, britain, london, paris, berlin, moldova, serbia, kosovo]
+  asia_pacific:
+    label: Asia-Pacific
+    color: "#38A169"
+    keywords: [china, chinese, beijing, taiwan*, japan*, korea*, philippine*, south china sea, asean, indo-pacific, australia*, vietnam*, myanmar, aukus, indonesia*, singapore]
+  south_asia:
+    label: South Asia
+    color: "#ED8936"
+    keywords: [india*, pakistan*, bangladesh*, nepal*, sri lanka*, afghan*, kashmir, taliban, bhutan, maldives, delhi, islamabad, dhaka, kabul, colombo]
+  africa:
+    label: Africa
+    color: "#9F7AEA"
+    keywords: [sudan*, ethiopia*, somalia*, sahel, mali, niger, nigeria*, congo*, libya*, african union, kenya*, tigray, burkina faso, south africa*, mozambique, chad]
+  americas:
+    label: Americas
+    color: "#E53E8C"
+    keywords: [venezuela*, mexic*, cuba*, brazil*, colombia*, canada, canadian, argentin*, haiti, panama, white house, pentagon, state department, washington, congress, ecuador, peru]
+
+topics:
+  conflict:
+    label: Conflict
+    keywords: [war, ceasefire, airstrike*, missile*, troops, offensive, militar*, invasion, drone strike*, shelling, hostage*, casualties, frontline]
+  diplomacy:
+    label: Diplomacy
+    keywords: [summit, talks, treaty, diplomat*, embassy, negotiat*, ambassador, foreign minister, united nations, security council, accord]
+  sanctions_trade:
+    label: Sanctions & Trade
+    keywords: [sanction*, tariff*, embargo, export control*, trade war, blockade]
+  politics:
+    label: Politics
+    keywords: [election*, coup, parliament, referendum, protest*, regime, president, prime minister]
+  energy:
+    label: Energy
+    keywords: [oil, gas pipeline, opec, lng, energy supply, energy crisis]
+  security:
+    label: Security
+    keywords: [nuclear, cyberattack*, espionage, intelligence, terror*, arms, uranium, enrichment, defence, defense]
+  humanitarian:
+    label: Humanitarian
+    keywords: [refugee*, humanitarian, famine, displaced, aid convoy, migrant*]
