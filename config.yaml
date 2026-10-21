@@ -7,8 +7,9 @@ settings:
   max_age_hours: 24          # ignore articles older than this
   max_posts_per_run: 12      # highest-scoring stories win; the rest wait for the next run
   first_run_posts: 6         # on the very first run, post only this many
-  min_score: 3.0             # stories scoring below this are dropped
-  breaking_score: 9.0        # score + urgency needed to count as BREAKING
+  min_score: 4.0             # stories scoring below this are dropped
+  market_filter: true        # TRUE = only post news that can move markets (see 'markets' below)
+  breaking_score: 10.5       # score + urgency needed to count as BREAKING
   cluster_similarity: 0.45   # headline overlap (0-1) to treat items as the same story
   dup_window_hours: 24       # don't repost a story already posted in this window
   require_relevance: true    # drop non-"topical" feed items with no geopolitical signal
@@ -43,6 +44,7 @@ sources:
   - {name: DW,              tier: 1, url: "https://rss.dw.com/rdf/rss-en-all"}
   - {name: France 24,       tier: 1, url: "https://www.france24.com/en/rss"}
   - {name: UN News,         tier: 1, topical: true, url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"}
+  - {name: CNBC World,      tier: 2, url: "https://www.cnbc.com/id/100727362/device/rss/rss.html"}
   - {name: The Hindu,       tier: 2, url: "https://www.thehindu.com/news/international/feeder/default.rss"}
   - {name: CNA,             tier: 2, url: "https://www.channelnewsasia.com/rssfeeds/8395986"}
   - {name: Foreign Policy,  tier: 2, topical: true, url: "https://foreignpolicy.com/feed/"}
@@ -116,3 +118,55 @@ topics:
   humanitarian:
     label: Humanitarian
     keywords: [refugee*, humanitarian, famine, displaced, aid convoy, migrant*]
+
+# ---------------------------------------------------------------------------
+# MARKET IMPACT FILTER
+# With settings.market_filter: true, a story is posted only if it names one of
+# these market areas (or is implied by the rules further down). Each embed gets a
+# "Markets in focus" line. The bot says WHAT is affected, never which way to trade.
+# Add/remove keywords freely; a trailing * means "starts with".
+# ---------------------------------------------------------------------------
+markets:
+  oil_energy:
+    label: Oil & Gas
+    emoji: "🛢️"
+    keywords: [oil, crude, brent, wti, opec*, lng, natural gas, gas pipeline, refiner*, tanker*, energy supply, energy crisis, strait of hormuz]
+  gold_havens:
+    label: Gold & Havens
+    emoji: "🥇"
+    keywords: [gold price*, gold futures, bullion, safe haven*, safe-haven*, flight to safety]
+  rates_central_banks:
+    label: Rates & Central Banks
+    emoji: "🏦"
+    keywords: [federal reserve, fed, fomc, ecb, bank of england, bank of japan, reserve bank, central bank*, interest rate*, rate cut*, rate hike*, inflation, treasury yield*, bond yield*, imf, world bank, bailout]
+  fx:
+    label: Currencies
+    emoji: "💱"
+    keywords: [currency, currencies, dollar, euro, yen, yuan, renminbi, rupee, sterling, rouble, ruble, lira, peso, devaluation, forex, exchange rate*, dollar index]
+  trade_sanctions:
+    label: Trade & Sanctions
+    emoji: "🚢"
+    keywords: [sanction*, tariff*, embargo, export control*, trade war, trade deal*, trade talks, supply chain*, shipping, maritime, red sea, suez, panama canal, blockade, port, ports, freight, chokepoint]
+  equities:
+    label: Equities
+    emoji: "📈"
+    keywords: [stock market*, stocks, wall street, equities, s&p, nasdaq, dow, nikkei, sensex, nifty, ftse, dax, hang seng, semiconductor*, tsmc]
+  commodities:
+    label: Commodities
+    emoji: "🌾"
+    keywords: [wheat, grain, copper, lithium, rare earth*, fertilizer*, fertiliser*, silver, aluminium, aluminum, nickel, commodit*, food prices]
+  risk_sentiment:
+    label: Risk Sentiment
+    emoji: "⚠️"
+    keywords: [volatility, vix, recession, selloff, sell-off, market turmoil, risk-off, credit rating, downgrade*, default, debt crisis, financial crisis, bank run, capital flight]
+
+# Geopolitical events that move markets even when the headline doesn't say so.
+# A rule fires if ANY listed region matches AND ANY listed topic matches
+# (an empty list means "any"). These show as "(indirect)" in the embed.
+implied_markets:
+  - {regions: [middle_east],   topics: [conflict, security],                   assets: [oil_energy, gold_havens]}
+  - {regions: [europe_russia], topics: [conflict, sanctions_trade],           assets: [oil_energy, commodities]}
+  - {regions: [asia_pacific],  topics: [conflict, security, sanctions_trade], assets: [equities, trade_sanctions]}
+  - {regions: [south_asia],    topics: [conflict],                            assets: [fx, equities]}
+  - {regions: [],              topics: [sanctions_trade],                     assets: [trade_sanctions]}
+  - {regions: [],              topics: [energy],                              assets: [oil_energy]}

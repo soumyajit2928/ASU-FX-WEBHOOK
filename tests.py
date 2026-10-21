@@ -51,11 +51,32 @@ def test_scoring_breaking_and_relevance():
 
     fluff = bot.Story([item("Local bakery wins award for best croissant")])
     bot.analyse(fluff, TAX, CFG, NOW)
-    assert not fluff.relevant
+    assert not fluff.relevant and not fluff.market_relevant
 
     analysis = bot.Story([item("Why the pivot to Asia is stalling", "Foreign Policy", 2, topical=True)])
     bot.analyse(analysis, TAX, CFG, NOW)
     assert analysis.relevant
+
+
+def test_market_filter():
+    def a(title):
+        st = bot.Story([item(title)])
+        return bot.analyse(st, TAX, CFG, NOW)
+
+    hormuz = a("Iran threatens Strait of Hormuz closure as oil jumps")
+    assert "oil_energy" in hormuz.assets and hormuz.market_relevant
+
+    fed = a("Fed holds rates as dollar firms")           # economics, no geopolitics needed
+    assert {"rates_central_banks", "fx"} <= set(fed.assets)
+
+    indirect = a("Israeli airstrike hits Beirut suburb")  # not named, but implied
+    assert not indirect.assets and "oil_energy" in indirect.indirect_assets
+
+    local = a("Kenya holds council by-elections amid low turnout")
+    assert not local.market_relevant
+
+    gold_medal = a("Kenya wins gold medal in marathon")
+    assert "gold_havens" not in gold_medal.assets
 
 
 def test_routing(monkeypatch=None):

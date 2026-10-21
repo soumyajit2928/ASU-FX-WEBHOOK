@@ -104,6 +104,8 @@ class Story:
     items: list[Item]
     regions: list[str] = field(default_factory=list)
     topics: list[str] = field(default_factory=list)
+    assets: list[str] = field(default_factory=list)           # market areas named in the text
+    indirect_assets: list[str] = field(default_factory=list)  # inferred from region + topic rules
     urgency: int = 0
     score: float = 0.0
     breaking: bool = False
@@ -127,6 +129,10 @@ class Story:
     def newest(self) -> datetime:
         return max(i.time for i in self.items)
 
+    @property
+    def market_relevant(self) -> bool:
+        return bool(self.assets or self.indirect_assets)
+
 
 # ----------------------------------------------------------------------------- taxonomy / scoring
 
@@ -147,6 +153,8 @@ class Taxonomy:
         self.regions = {n: _compile(v["keywords"]) for n, v in cfg["regions"].items()}
         self.topics = {n: _compile(v["keywords"]) for n, v in cfg["topics"].items()}
         self.urgency = _compile(cfg["urgency"])
+        self.assets = {n: _compile(v["keywords"]) for n, v in (cfg.get("markets") or {}).items()}
+        self.implied = cfg.get("implied_markets") or []
 
 
 def analyse(story: Story, tax: Taxonomy, cfg: dict, now: datetime) -> Story:
@@ -158,6 +166,20 @@ def analyse(story: Story, tax: Taxonomy, cfg: dict, now: datetime) -> Story:
     story.topics = [n for n, p in tax.topics.items() if p.search(text)]
     story.urgency = _count(tax.urgency, text)
 
+    # Market impact: assets named explicitly, plus ones implied by region + topic rules.
+    acounts = {n: _count(p, text) for n, p in tax.assets.items()}
+    story.assets = [n for n, c in sorted(acounts.items(), key=lambda kv: -kv[1]) if c]
+    story.indirect_assets = []
+    for rule in tax.implied:
+        if not (rule.get("regions") or rule.get("topics")):
+            continue
+        r_ok = not rule.get("regions") or any(r in story.regions for r in rule["regions"])
+        t_ok = not rule.get("topics") or any(t in story.topics for t in rule["topics"])
+        if r_ok and t_ok:
+            for a in rule["assets"]:
+                if a not in story.assets and a not in story.indirect_assets:
+                    story.indirect_assets.append(a)
+
     topical = any(i.topical for i in story.items)
     story.relevant = bool(story.regions or story.topics or story.urgency or topical)
 
@@ -168,7 +190,9 @@ def analyse(story: Story, tax: Taxonomy, cfg: dict, now: datetime) -> Story:
     urgency_w = min(1.5 * story.urgency, 4.5)
     age_h = max((now - story.newest).total_seconds() / 3600, 0)
     recency = max(0.0, 1 - age_h / s["max_age_hours"])
-    story.score = round(tier_w + coverage + topic_w + urgency_w + recency + (1.0 if topical else 0), 2)
+    market_w = min(1.0 * len(story.assets), 3.0) + min(0.5 * len(story.indirect_assets), 1.0)
+    story.score = round(tier_w + coverage + topic_w + urgency_w + recency + market_w
+                        + (1.0 if topical else 0), 2)
     story.breaking = story.urgency >= 1 and story.score >= s["breaking_score"]
     return story
 
@@ -332,6 +356,14 @@ def build_embed(story: Story, cfg: dict) -> dict:
     if others:
         embed["fields"] = [{"name": "Also reported by", "value": " · ".join(others)[:1024]}]
 
+    if story.market_relevant:
+        m = cfg.get("markets", {})
+        label = lambda a: f"{m.get(a, {}).get('emoji', '')} {m.get(a, {}).get('label', a)}".strip()  # noqa: E731
+        names = [label(a) for a in story.assets[:4]]
+        names += [f"{label(a)} (indirect)" for a in story.indirect_assets[:3]]
+        embed.setdefault("fields", []).append(
+            {"name": "Markets in focus", "value": " · ".join(names)[:1024]})
+
     image = lead.image or next((i.image for i in story.items if i.image), None)
     if image:
         embed["thumbnail"] = {"url": image}
@@ -423,7 +455,10 @@ def run(cfg: dict, dry_run: bool = False, now: datetime | None = None) -> list[S
     for story in cluster(fresh, s["cluster_similarity"]):
         analyse(story, tax, cfg, now)
         already_posted = any(similar(story.lead.tokens, t, s["cluster_similarity"]) for t in recent)
-        irrelevant = s["require_relevance"] and not story.relevant
+        if s.get("market_filter"):
+            irrelevant = not story.market_relevant
+        else:
+            irrelevant = s["require_relevance"] and not story.relevant
         if already_posted or irrelevant or story.score < s["min_score"]:
             for i in story.items:
                 state["seen"][i.id] = stamp
@@ -459,6 +494,8 @@ def run(cfg: dict, dry_run: bool = False, now: datetime | None = None) -> list[S
                 "score": st.score, "sources": st.sources,
                 "regions": [cfg["regions"][r]["label"] for r in st.regions[:2]],
                 "topics": [cfg["topics"][t]["label"] for t in st.topics[:2]],
+                "assets": [cfg.get("markets", {}).get(a, {}).get("label", a)
+                           for a in (st.assets + st.indirect_assets)[:3]],
             })
 
     log.info("Posted %d story(ies); %d candidate(s) total", posted_total, len(candidates))
@@ -489,13 +526,13 @@ def digest(cfg: dict, dry_run: bool = False, now: datetime | None = None) -> Non
 
     lines = []
     for n, p in enumerate(top, 1):
-        tags = " · ".join(p.get("regions", []) + p.get("topics", []))
+        tags = " · ".join(p.get("regions", [])[:1] + p.get("assets", []))
         lines.append(f"**{n}.** [{md_escape(p['title'])}]({p['link']})\n"
                      f"└ {tags + ' — ' if tags else ''}{', '.join(p['sources'][:3])}")
     local = now + timedelta(minutes=s["utc_offset_minutes"])
-    embed = {"title": f"🗞️ Daily Geopolitical Briefing · {local:%d %b %Y}",
+    embed = {"title": f"🗞️ Daily Market-Moving News Briefing · {local:%d %b %Y}",
              "description": "\n".join(lines)[:4000], "color": 0x2B6CB0,
-             "footer": {"text": f"Top {len(top)} stories from the last 24 hours, ranked by coverage and significance"}}
+             "footer": {"text": f"Top {len(top)} stories from the last 24 hours, ranked by coverage and significance · Not financial advice"}}
     if dry_run:
         print(embed["title"], "\n", embed["description"])
     else:
