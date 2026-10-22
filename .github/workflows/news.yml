@@ -2,7 +2,7 @@ name: Geopolitical news to Discord
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # news run, every 5 minutes
+    - cron: "*/15 * * * *"   # news run, every 5 minutes
     - cron: "30 3 * * *"     # daily briefing, 03:30 UTC = 09:00 IST
   workflow_dispatch:
     inputs:
