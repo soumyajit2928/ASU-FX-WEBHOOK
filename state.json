@@ -1787,7 +1787,16 @@
   "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece": "2026-10-24T23:19:52.311016+00:00",
   "https://www.channelnewsasia.com/commentary/trump-xi-putin-summit-apec-ukraine-war-6485936": "2026-10-24T23:19:52.311016+00:00",
   "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss": "2026-10-24T23:19:52.311016+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss": "2026-10-24T23:19:52.311016+00:00"
+  "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss": "2026-10-24T23:19:52.311016+00:00",
+  "https://www.channelnewsasia.com/world/fresh-clashes-rock-france-protesters-march-6489221": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-remains-unhealthy-across-country-pm25-readings-normal-in-all-regions-6489876": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss": "2026-10-25T01:27:32.278846+00:00",
+  "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss": "2026-10-25T01:27:32.278846+00:00"
  },
  "posted": [
   {
@@ -6166,6 +6175,45 @@
    "assets": [
     "Oil & Gas",
     "Commodities"
+   ]
+  },
+  {
+   "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+   "time": "2026-10-25T01:27:32.278846+00:00",
+   "score": 6.94,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "regions": [
+    "Middle East"
+   ],
+   "topics": [
+    "Conflict"
+   ],
+   "assets": [
+    "Oil & Gas",
+    "Gold & Havens"
+   ]
+  },
+  {
+   "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+   "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+   "time": "2026-10-25T01:27:32.278846+00:00",
+   "score": 5.96,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "regions": [
+    "Middle East"
+   ],
+   "topics": [
+    "Conflict",
+    "Politics"
+   ],
+   "assets": [
+    "Oil & Gas",
+    "Gold & Havens"
    ]
   }
  ]
