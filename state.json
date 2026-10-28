@@ -1,329 +1,5 @@
 {
  "seen": {
-  "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/tarique-rahman-visits-durga-puja-pavilions-in-bangladesh/article71603934.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/zelenskyy-says-spoke-to-rubio-over-starlink-starshield-issues/article71604158.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/iran-guards-say-their-mines-halted-two-tankers-crossing-strait-of-hormuz/article71605265.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/israeli-fire-kills-four-people-in-gaza-medics-say/article71605315.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/russian-aerial-blitz-kills-9-in-ukraine-as-zelenskyy-meets-us-european-officials-in-norway/article71605338.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/two-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-a-us-run-air-base/article71605486.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/tv-shows/business/20261020-us-regulators-certify-boeing-737-max-10-after-years-of-delay": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/technology/20261021-boeing-s-737-max-10-finally-wins-faa-approval-after-years-of-delays": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/music/2026/oct/21/mariah-carey-brother-morgan-carey-defamation-lawsuit-dismissed": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cr93z1e87e0do": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/asia/indonesia-protest-haze-wildfires-toxic-smoke-6477656": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/entertainment/twice-jihyo-leaves-jyp-entertainment-6477701": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/singapore/singapore-manufacturer-ai-adoption-45-million-6477566": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/sport/bowler-shami-not-giving-up-hope-india-return-6477871": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/business/bank-japans-himino-signals-readiness-raise-borrowing-costs-6477911": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-waze-data-security-6477761": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/entertainment/ming-xi-victorias-secret-6477626": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/east-asia/china-apec-finance-ministers-agree-boost-policy-coordination-6477976": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/entertainment/weeknd-tony-leung-carina-lau-dinner-6477676": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/business/trump-says-companies-should-pay-dividend-communities-make-data-centers-popular-6478021": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/trump-calls-for-data-centre-firms-to-pay-a-community-dividend-to-gain-local-support/article71606602.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/foden-shines-as-man-city-rout-athens-5-1-despite-haaland-semenyo-injuries?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/singapore/taiwan-dbs-paylah-scan-pay-twqr-6478131": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/business/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-vulnerabilities-6478206": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/singapore/trevor-baby-boy-death-abuse-parents-jailed-15-years-6477331": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/first-nation-community-in-canada-uses-data-centre-to-preserve-its-heritage/article71606571.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/getty-images-begins-chapter-11-proceedings-to-restructure-debt/article71606608.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/business/toyota-recall-about-105800-us-vehicles-over-fire-risk-nhtsa-says-6478251": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/nigeria-confirms-first-ebola-case": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/article71604054.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/death-toll-from-houthi-strike-on-yemen-government-camp-rises-to-73/article71605335.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/french-pm-vows-massive-police-deployment-for-new-demonstrations-on-october-24/article71604984.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/french-pm-vows-massive-police-deployment-for-new-demonstrations": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168636": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/zelensky-us-envoys-hold-oslo-talks-as-ukraine-claims-us-missile-holdup/article71605520.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/tv-shows/truth-or-fake/20261020-i-m-alive-paris-street-medic-isn-t-dead-despite-viral-claims-he-was-killed-by-police": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/crp3gvpek8njo": "2026-10-21T08:03:08.310368+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168630": "2026-10-21T08:03:08.310368+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168631": "2026-10-21T08:03:08.310368+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168629": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/italy-sends-troops-toughens-security-laws-after-milan-clashes": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/world/australia-helen-haines-car-attack-lose-both-legs-6478141": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/albanian-police-clash-with-anti-government-protesters-for-eighth-day/article71606236.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/entertainment/hiroshi-tsuchida-death-voice-actor-attack-titan-kakuranger-6477491": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/china-us-trump-xi-strategic-stability": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/north-korea-wants-security-talks-with-the-us-not-nuclear-talks": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168632": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/tv-shows/the-debate/20261020-ai-on-the-ballot-voters-in-us-midterms-revolt-against-data-centres": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/americas/20261020-lula-campaign-seeks-disqualify-bolsonoro-from-brazil-presidential-vote-over-meta-interference": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/trump-campaigning-in-republican-strongholds-amid-slide-in-polls": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/trump-farmer-bailout-midterms-diesel-prices-iran-war": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cqrkyj13m588o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cq0me4g9p970o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/ukraine-russia-talks-trump-starshield": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/21/myanmar-shan-state-meth-drugs": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/sudan-army-strike-in-disputed-territory-kills-53-local-authorities/article71605311.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/attack-by-islamic-state-affiliated-group-in-mali-kills-48/article71605269.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/taiwans-tech-diplomacy-has-a-labor-problem": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/expanding-the-military-footprint-chinas-new-air-base-in-laos": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/japan-has-considered-nuclear-powered-submarines-since-1958-why-has-it-never-built-one": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/c693z948px0jo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/us-military-trump-hegseth-war-lethality-iran-strategy-power-victory": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cr62ylj832vxo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/sport/20261020-psg-end-barcelona-winning-run-as-liverpool-fight-back-against-villarreal": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/zelensky-ukraine-witkoff-kushner-talks-oslo-russia-trump-starlink": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/ckrey51jrgnro": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/east-asia/north-korea-border-troops-resolute-action-safety-6478126": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/uk-approves-jackdaw-north-sea-gas-drilling-amid-climate-promises/article71606631.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/new-paris-curfew-ordered-in-parts-of-city-from-2100-gmt-tuesday": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/hundreds-put-on-immediate-trial-for-ransacking-city-centres-across-france": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/singapore/olivia-lum-hyflux-trial-not-testifying-6477901": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/national/india-opposes-attempts-to-portray-worlds-largest-democracy-negatively-using-unverified-allegations-at-un/article71606235.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/canadian-unity-or-separation-why-did-alberta-province-hold-a-referendum/article71606263.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/french-pm-to-meet-unions-as-government-prepares-for-more-protests/article71606220.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.channelnewsasia.com/business/state-bank-india-reports-cyberattack-involving-nearly-3900-customer-records-6477746": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/weapons-to-russia-wigs-to-china-how-north-korea-balances-its-allies": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/bougainville-needs-a-credible-timetable-for-pngs-independence-vote-australia-can-help": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/data-centers-russia-ukraine-iran-gulf-internet-ai": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-meets-iranian-vice-president-tajikistan-prime-minister/article71604395.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://thediplomat.com/2026/10/trial-by-social-media-the-boundaries-of-feminist-teaching-in-china": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market": "2026-10-21T08:03:08.310368+00:00",
-  "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.bbc.co.uk/news/articles/cqx297pxg1djo": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.thehindu.com/news/international/us-envoy-witkoff-meets-putin-in-saint-petersburg/article71606691.ece": "2026-10-21T08:03:08.310368+00:00",
-  "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/bayern-munich-arsenal-champions-league-predictions-saka-kane-olise?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/singapore/refreshed-when-youre-ready-international-branding-campaign-meti-beh-swan-gin-dbs-tan-su-shan-6478331": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/sport/psgs-kvaratskhelia-undergo-surgery-torn-acl-dembele-out-few-weeks-6478451": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/netflix-slides-weak-profit-ad-outlook-intensify-investor-anxiety-6478461": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/sport/toulouse-v-troyes-ligue-1-game-postponed-amid-unrest-in-france-6478481": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/singapore/gic-indonesia-temasek-stock-market-msci-6478261": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/singapore/fake-simba-phishing-websites-scam-6478431": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/singapore/court-appeal-2011-marriage-convenience-valid-wife-inherit-estate-6478411": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/bookingcom-targeted-in-eu-investigation-phishing-scams-fraudulent-listings-6478571": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/world/pope-leo-appearance-lung-cancer-surgery-6478361": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/sport/bayerns-kimmich-miss-arsenal-clash-due-family-bereavement-6478601": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/att-raises-annual-profit-forecast-strong-demand-bundled-plans-6478646": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/wall-st-says-tesla-spacex-deal-inevitable-musk-says-its-not-certain-6478671": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/sport/toh-wei-soong-third-bronze-asian-para-games-6478416": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/south-koreas-korai-flix-go-public-in-us-35-billion-spac-deal-6478686": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/orange-says-network-incident-disrupts-mobile-services-across-france-6478726": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/business/einride-expands-nvidia-partnership-deploy-ai-reasoning-model-self-driving-trucks-6478721": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/us-news/2026/oct/21/abdul-el-sayed-michigan-senate-democrats": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.channelnewsasia.com/world/putin-steve-witkoff-ukraine-peace-talks-frees-us-citizen-6478526": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.france24.com/en/ukraine-talks-us-envoy-meets-vladimir-putin-in-russia": "2026-10-21T11:17:17.306622+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168637": "2026-10-21T11:17:17.306622+00:00",
-  "https://news.un.org/feed/view/en/story/2026/10/1168634": "2026-10-21T11:17:17.306622+00:00",
-  "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory/a-79710877?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/cnbc-daily-open-the-musk-universe-is-planning-its-latest-crossover.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/its-hard-for-us-paris-small-businesses-bear-brunt-of-protest-violence?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/opinions/2026/10/21/europe-is-in-trouble-and-it-is-blaming-muslims?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/tv-shows/sports/20261021-champions-league-paris-defeat-barcelona-but-lose-3-major-players-to-injuries": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/cnbc-daily-open-spacex-tesla-elon-musk-ai.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/tv-shows/arts24/20261021-women-lead-the-charge-for-saudi-contemporary-art": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/ukraine-talks-what-progress-after-us-envoy-met-with-zelensky": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.channelnewsasia.com/business/openai-president-urges-ai-safeguards-group-he-funds-opposes-regulation-6478576": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/replay-french-president-addresses-fuel-supplies-during-gulf-tour": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/video/20261021-french-prime-minister-vows-massive-police-deployment-for-new-demonstrations": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.channelnewsasia.com/asia/president-prabowo-berates-countries-insult-indonesia-wildfires-haze-6478676": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.bbc.co.uk/news/articles/c6m24l9v3745o": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost": "2026-10-21T11:28:05.114411+00:00",
-  "https://foreignpolicy.com/2026/10/21/brazil-election-lula-bolsonaro-banco-master-supreme-court-moraes": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.channelnewsasia.com/sport/barcelona-report-paris-style-massacre-fan-display-uefa-after-psg-game-6478801": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.thehindu.com/news/national/gujarat/marco-rubio-jamnagar-reliance-refinery-october-21/article71606843.ece": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/video/20261021-italy-deploys-troops-into-milan-in-response-to-recent-riots": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.theguardian.com/uk-news/2026/oct/21/aberdeen-workers-relief-jackdaw-gasfield-approval": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/tv-shows/business/20261021-musk-talks-up-potential-merger-of-spacex-and-tesla": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.channelnewsasia.com/world/russia-diesel-cargo-us-shipments-6478716": "2026-10-21T11:28:05.114411+00:00",
-  "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia": "2026-10-21T11:33:45.428479+00:00",
-  "https://www.channelnewsasia.com/sport/betis-bernal-handed-four-game-ban-sending-against-barcelona-6478811": "2026-10-21T11:33:45.428479+00:00",
-  "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html": "2026-10-21T11:33:45.428479+00:00",
-  "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html": "2026-10-21T11:33:45.428479+00:00",
-  "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls": "2026-10-21T11:42:18.179023+00:00",
-  "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims": "2026-10-21T11:42:18.179023+00:00",
-  "https://www.channelnewsasia.com/business/bolt-nvidia-kickstart-driverless-taxi-programme-in-madrid-during-2027-6478871": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.channelnewsasia.com/singapore/ocbc-malaysian-ringgit-multi-currency-6478511": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.channelnewsasia.com/business/openai-sell-its-top-models-google-cloud-in-latest-enterprise-push-6478941": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.channelnewsasia.com/business/germanys-agile-make-up-2000-humanoid-robots-nvidia-ceo-says-6478936": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes": "2026-10-21T12:14:04.099032+00:00",
-  "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796": "2026-10-21T12:14:04.099032+00:00",
   "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html": "2026-10-21T15:51:12.136366+00:00",
   "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i": "2026-10-21T15:51:12.136366+00:00",
   "https://news.un.org/feed/view/en/story/2026/10/1168638": "2026-10-21T15:51:12.136366+00:00",
@@ -2950,557 +2626,126 @@
   "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss": "2026-10-28T06:08:57.780627+00:00",
   "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976": "2026-10-28T06:08:57.780627+00:00",
   "https://www.channelnewsasia.com/asia/myanmar-bagan-tourism-slump-craftsmen-preserve-culture-6498611": "2026-10-28T06:08:57.780627+00:00",
-  "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html": "2026-10-28T06:08:57.780627+00:00"
+  "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html": "2026-10-28T06:08:57.780627+00:00",
+  "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/europe-sovereign-debt-corporate-borrowing.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/tennis-great-novak-djokovic-praises-serbias-student-movement-after-historic-election-win/article71634679.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/daily-quiz-on-luiz-inacio-lula-da-silva/article71634672.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/flavio-bolsonaro-us-trump-brazil-elections/article71634540.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/americas/20261028-brazil-s-flavio-bolsonaro-flies-on-from-ecuador-to-unknown-destination-despite-travel-ban": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cmly073ql392o": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-israel-netanyahu-and-eisenkot-both-pledge-to-form-government": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/israel-polls-golan-urges-eisenkots-bloc-to-form-government-with-arab-parties-to-oust-netanyahu/article71635413.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/africa-s-first-youth-olympics-open-in-senegal-amid-hope-and-scrutiny/a-79760478?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/world/two-high-speed-trains-collide-spain-many-dead-6499336": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/flavio-bolsonaro-flees-brazil-and-boards-a-flight-to-ecuador-after-election-loss-to-lula/article71634871.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-flavio-bolsonaro-on-way-to-ecuador-from-argentina-after-fleeing-brazil": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/flydubai-attack-october-2026/article71536055.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/policeman-kills-knife-attacker-outside-israeli-embassy-in-serbia/article71635091.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico": "2026-10-28T12:57:50.580629+00:00",
+  "https://foreignpolicy.com/2026/10/28/data-centers-locations-world-global-ai-construction": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-israelis-await-final-election-results-as-netanyahu-remains-far-from-defeated": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/tv-shows/press-review/20261028-israeli-election-wishful-thinking-for-pro-and-anti-netanyahu-parties": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/germany-news-parties-debate-who-should-succeed-president-steinmeier-with-several-women-under-discussion/live-79783779?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/israel-netanyahu-edges-closer-to-a-majority": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cwj342k62exyo": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cjy561y4pl56o": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/singapore/man-sexual-abuse-6-boys-confess-chemical-castration-6499481": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/russia-is-already-part-of-who-i-am-african-students-in-moscow?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-us-midterms-slashing-of-food-stamps-in-arizona-angers-voters": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/australia-reach-90-2-in-reply-south-africas-329-6499606": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/business/south-korea-media-commission-fines-google-and-apple-over-app-payment-systems-6499616": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/sci-tech/technology/south-korea-fines-google-and-apple-for-forcing-own-payment-systems-and-delaying-reviews/article71635392.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/investors-brace-for-a-hawkish-hold-and-tech-on-tap.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/singapore/nature-groups-gillman-barracks-maju-forest-home-plans-hdb-6496281": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/business/apple-expected-show-first-touchscreen-laptops-amid-product-blitz-6499711": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/sports/2026/10/28/japan-football-association-official-resigns-after-afc-aligns-with-infantino?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/east-asia/china-former-vice-prime-minister-liu-yandong-dies-6499546": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-india-over-180-000-evacuated-on-east-coast-as-massive-cyclone-hits": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/former-japan-coach-okada-quits-jfa-vice-president-role-over-fifa-concerns-6499761": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-israeli-election-as-votes-are-counted-no-clear-winner-emerges": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/ballon-dor-title-will-help-keep-kane-bayern-says-matthaeus-6499756": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-brazil-flavio-bolsonaro-leaves-argentina-for-alleged-us-asylum-after-defeat": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/culture/2026/oct/28/bafta-trustees-charity-law-accepting-free-guest-tickets": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/business/scale-ai-rejects-claims-it-illegally-surveils-ai-training-workers-6499796": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/asia/indonesia-jakarta-student-protest-prices-forest-fires-6499771": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/sport/football/real-madrid-apologises-to-china-after-mbappes-mao-dictator-comment-sparks-backlash/article71635558.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-indonesia-high-level-talks-haze-commitment-6496126": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-israeli-election-pm-loses-a-significant-number-of-seats-since-2022-election": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00",
+  "https://news.un.org/feed/view/en/story/2026/10/1168687": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase": "2026-10-28T12:57:50.580629+00:00",
+  "https://foreignpolicy.com/2026/10/28/international-order-liberal-norms-west-colonial-empire-china": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/business/coinbase-adds-ripples-stablecoin-its-exchange-6499821": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/puerto-ricos-serrano-hang-up-gloves-in-hometown-farewell-6499831": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/copa-del-rey-fixtures-postponed-following-train-crash-6499866": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/video/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/tv-shows/spotlight/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/sport/rc-lens-ban-own-fans-attending-lille-match-6499936": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.channelnewsasia.com/business/amazon-unveils-new-lineup-alexa-devices-including-redesigned-echo-show-6499991": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.thehindu.com/news/international/israeli-arab-parties-hold-key-as-netanyahu-falls-short-of-majority/article71635927.ece": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.france24.com/en/tv-shows/perspective/20261028-no-clear-winner-from-israeli-election-expert-says": "2026-10-28T12:57:50.580629+00:00",
+  "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": "2026-10-28T12:57:50.580629+00:00"
  },
  "posted": [
-  {
-   "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-   "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 7.83,
-   "sources": [
-    "BBC World"
-   ],
-   "regions": [
-    "Africa"
-   ],
-   "topics": []
-  },
-  {
-   "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-   "link": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 7.98,
-   "sources": [
-    "The Guardian"
-   ],
-   "regions": [
-    "Europe & Russia",
-    "Americas"
-   ],
-   "topics": [
-    "Conflict",
-    "Politics"
-   ]
-  },
-  {
-   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 8.72,
-   "sources": [
-    "The Guardian",
-    "DW"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": [
-    "Conflict"
-   ]
-  },
-  {
-   "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
-   "link": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 8.76,
-   "sources": [
-    "France 24",
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Africa"
-   ],
-   "topics": [
-    "Conflict"
-   ]
-  },
-  {
-   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-   "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 8.4,
-   "sources": [
-    "NPR World"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Diplomacy"
-   ]
-  },
-  {
-   "title": "US envoy Witkoff to meet Putin in Russia after 'positive' talks with Zelensky",
-   "link": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky",
-   "time": "2026-10-21T08:03:08.310368+00:00",
-   "score": 8.49,
-   "sources": [
-    "France 24",
-    "DW",
-    "The Hindu"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Diplomacy"
-   ]
-  },
-  {
-   "title": "Australian MP loses both legs after alleged car attack, husband says",
-   "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 9.89,
-   "sources": [
-    "BBC World",
-    "DW",
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Asia-Pacific"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-   "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.38,
-   "sources": [
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Africa"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-   "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 8.91,
-   "sources": [
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": [
-    "Conflict"
-   ]
-  },
-  {
-   "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-   "link": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.42,
-   "sources": [
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Asia-Pacific"
-   ],
-   "topics": []
-  },
-  {
-   "title": "US extreme weather survivors are a growing group – now they want to be a political force",
-   "link": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 6.95,
-   "sources": [
-    "The Guardian"
-   ],
-   "regions": [],
-   "topics": []
-  },
-  {
-   "title": "‘What are you implying?’: El-Sayed confronts critics head-on as attacks ramp up",
-   "link": "https://www.theguardian.com/us-news/2026/oct/21/abdul-el-sayed-michigan-senate-democrats",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.45,
-   "sources": [
-    "The Guardian"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.98,
-   "sources": [
-    "The Guardian"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Politics"
-   ]
-  },
-  {
-   "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 4.99,
-   "sources": [
-    "NPR World"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Diplomacy",
-    "Politics"
-   ]
-  },
-  {
-   "title": "Egypt mulls joining Saudi Arabia in war against Houthis",
-   "link": "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 6.49,
-   "sources": [
-    "France 24"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": [
-    "Conflict",
-    "Politics"
-   ]
-  },
-  {
-   "title": "Ukraine talks: US envoy meets Vladimir Putin in Russia",
-   "link": "https://www.france24.com/en/ukraine-talks-us-envoy-meets-vladimir-putin-in-russia",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 8.49,
-   "sources": [
-    "France 24",
-    "CNA"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Diplomacy"
-   ]
-  },
-  {
-   "title": "WHO supports Nigeria after first Ebola case confirmed",
-   "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.0,
-   "sources": [
-    "UN News"
-   ],
-   "regions": [
-    "Africa"
-   ],
-   "topics": []
-  },
-  {
-   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
-   "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
-   "time": "2026-10-21T11:17:17.306622+00:00",
-   "score": 5.0,
-   "sources": [
-    "UN News"
-   ],
-   "regions": [],
-   "topics": []
-  },
-  {
-   "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-   "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 4.28,
-   "sources": [
-    "CNBC World"
-   ],
-   "regions": [
-    "Americas"
-   ],
-   "topics": [
-    "Sanctions & Trade",
-    "Politics"
-   ],
-   "assets": [
-    "Trade & Sanctions"
-   ]
-  },
-  {
-   "title": "Oil prices climb as traders assess Middle East developments",
-   "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 4.35,
-   "sources": [
-    "CNBC World"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": [
-    "Energy"
-   ],
-   "assets": [
-    "Oil & Gas"
-   ]
-  },
-  {
-   "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
-   "link": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.88,
-   "sources": [
-    "DW"
-   ],
-   "regions": [
-    "Middle East",
-    "Asia-Pacific"
-   ],
-   "topics": [
-    "Sanctions & Trade"
-   ],
-   "assets": [
-    "Trade & Sanctions",
-    "Equities"
-   ]
-  },
-  {
-   "title": "French PM vows stronger security as country prepares for more protests",
-   "link": "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.9,
-   "sources": [
-    "France 24"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Politics"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Commodities"
-   ]
-  },
-  {
-   "title": "Marco Rubio arrives in Jamnagar to visit Reliance refinery",
-   "link": "https://www.thehindu.com/news/national/gujarat/marco-rubio-jamnagar-reliance-refinery-october-21/article71606843.ece",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 4.43,
-   "sources": [
-    "The Hindu"
-   ],
-   "regions": [
-    "South Asia",
-    "Americas"
-   ],
-   "topics": [
-    "Energy"
-   ],
-   "assets": [
-    "Oil & Gas"
-   ]
-  },
-  {
-   "title": "Italy deploys troops into Milan in response to recent riots",
-   "link": "https://www.france24.com/en/video/20261021-italy-deploys-troops-into-milan-in-response-to-recent-riots",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.94,
-   "sources": [
-    "France 24"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Politics"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Commodities"
-   ]
-  },
-  {
-   "title": "‘Jackdaw means we pay our mortgages’: relief in Aberdeen over gasfield approval",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/21/aberdeen-workers-relief-jackdaw-gasfield-approval",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.45,
-   "sources": [
-    "The Guardian"
-   ],
-   "regions": [],
-   "topics": [
-    "Energy"
-   ],
-   "assets": [
-    "Oil & Gas"
-   ]
-  },
-  {
-   "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-   "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.45,
-   "sources": [
-    "Al Jazeera"
-   ],
-   "regions": [
-    "Middle East"
-   ],
-   "topics": [
-    "Conflict"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Gold & Havens"
-   ]
-  },
-  {
-   "title": "Musk talks up potential merger of SpaceX and Tesla",
-   "link": "https://www.france24.com/en/tv-shows/business/20261021-musk-talks-up-potential-merger-of-spacex-and-tesla",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.46,
-   "sources": [
-    "France 24"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Diplomacy"
-   ],
-   "assets": [
-    "Risk Sentiment"
-   ]
-  },
-  {
-   "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-   "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 7.46,
-   "sources": [
-    "Al Jazeera",
-    "CNBC World"
-   ],
-   "regions": [
-    "Europe & Russia",
-    "Americas"
-   ],
-   "topics": [
-    "Conflict",
-    "Diplomacy"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Commodities"
-   ]
-  },
-  {
-   "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-   "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 4.47,
-   "sources": [
-    "CNBC World"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Politics"
-   ],
-   "assets": [
-    "Rates & Central Banks"
-   ]
-  },
-  {
-   "title": "Russia says it will send first diesel cargo to US on Thursday",
-   "link": "https://www.channelnewsasia.com/world/russia-diesel-cargo-us-shipments-6478716",
-   "time": "2026-10-21T11:28:05.114411+00:00",
-   "score": 5.99,
-   "sources": [
-    "CNA"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Politics"
-   ],
-   "assets": [
-    "Oil & Gas"
-   ]
-  },
-  {
-   "title": "France to deploy military as it braces for fresh unrest this weekend",
-   "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-   "time": "2026-10-21T11:33:45.428479+00:00",
-   "score": 4.14,
-   "sources": [
-    "CNBC World"
-   ],
-   "regions": [
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict",
-    "Politics"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Commodities"
-   ]
-  },
-  {
-   "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-   "time": "2026-10-21T12:14:04.099032+00:00",
-   "score": 5.35,
-   "sources": [
-    "NPR World"
-   ],
-   "regions": [
-    "Middle East",
-    "Europe & Russia"
-   ],
-   "topics": [
-    "Conflict"
-   ],
-   "assets": [
-    "Oil & Gas",
-    "Gold & Havens",
-    "Commodities"
-   ]
-  },
-  {
-   "title": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
-   "link": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796",
-   "time": "2026-10-21T12:14:04.099032+00:00",
-   "score": 5.49,
-   "sources": [
-    "CNA"
-   ],
-   "regions": [
-    "Asia-Pacific"
-   ],
-   "topics": [],
-   "assets": [
-    "Equities"
-   ]
-  },
   {
    "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
    "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
